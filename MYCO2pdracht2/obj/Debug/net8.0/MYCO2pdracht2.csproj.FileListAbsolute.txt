@@ -1,0 +1,14 @@
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\bin\Debug\net8.0\MYCO2pdracht2.exe
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\bin\Debug\net8.0\MYCO2pdracht2.deps.json
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\bin\Debug\net8.0\MYCO2pdracht2.runtimeconfig.json
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\bin\Debug\net8.0\MYCO2pdracht2.dll
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\bin\Debug\net8.0\MYCO2pdracht2.pdb
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\obj\Debug\net8.0\MYCO2pdracht2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\obj\Debug\net8.0\MYCO2pdracht2.AssemblyInfoInputs.cache
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\obj\Debug\net8.0\MYCO2pdracht2.AssemblyInfo.cs
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\obj\Debug\net8.0\MYCO2pdracht2.csproj.CoreCompileInputs.cache
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\obj\Debug\net8.0\MYCO2pdracht2.dll
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\obj\Debug\net8.0\refint\MYCO2pdracht2.dll
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\obj\Debug\net8.0\MYCO2pdracht2.pdb
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\obj\Debug\net8.0\MYCO2pdracht2.genruntimeconfig.cache
+D:\C#\MYCO2pdracht2\MYCO2pdracht2\obj\Debug\net8.0\ref\MYCO2pdracht2.dll
